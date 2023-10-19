@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+
 ## Run Locally
 
 Clone the project
@@ -66,3 +66,5 @@ Start the Client
 ## Made By
 
 - [@Jahnzaib Imran](https://github.com/JahanzaibImran)
+
+  
